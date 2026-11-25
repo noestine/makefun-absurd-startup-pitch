@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+*.swp
+*~
+
+# Test / temp output
+.pytest_cache/
+entry.txt
